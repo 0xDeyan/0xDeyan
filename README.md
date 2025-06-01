@@ -13,22 +13,7 @@ Cybersecurity enthusiast with hands-on experience in log analysis, SIEM detectio
 - 💻 Scripting: PowerShell, Bash, Python (basic)
 - 📡 Threat Intel: AbuseIPDB, VirusTotal, AlienVault OTX
 
----
-
-## 📂 Notable Repositories
-
-- [`SOC-Playbooks`](https://github.com/yourusername/SOC-Playbooks)  
-  📋 Step-by-step incident response workflows for common attack scenarios.
-
-- [`SIEM-Detection-UseCases`](https://github.com/yourusername/SIEM-Detection-UseCases)  
-  🎯 Custom Splunk & Sigma detections for brute force, privilege escalation, and more.
-
-- [`Security-Scripts`](https://github.com/yourusername/Security-Scripts)  
-  🔧 PowerShell & Bash scripts for log collection, parsing, and IOC scans.
-
-- [`SOC-Interview-Prep`](https://github.com/yourusername/SOC-Interview-Prep)  
-  💼 Notes, commands, and cheat sheets for SOC roles and blue team concepts.
-
----
 
 ## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/deyanhaider)
