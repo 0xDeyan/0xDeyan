@@ -13,6 +13,10 @@ Cybersecurity enthusiast with hands-on experience in log analysis, SIEM detectio
 - 💻 Scripting: PowerShell, Bash, Python (basic)
 - 📡 Threat Intel: AbuseIPDB, VirusTotal, AlienVault OTX
 
+## 🛡️ Cybersecurity Certifications
+
+-  Google Cybersecurity Certificate
+
 
 ## 📫 Let’s Connect
 
