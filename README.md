@@ -17,9 +17,11 @@ Cybersecurity enthusiast with hands-on experience in log analysis, SIEM detectio
 
 -  Google Cybersecurity Certificate
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=0xdeyan&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=0xdeyan&theme=dark&hide_border=true" alt="GitHub Streak Stats">  
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdeyan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
