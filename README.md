@@ -17,6 +17,8 @@ Cybersecurity enthusiast with hands-on experience in log analysis, SIEM detectio
 
 -  Google Cybersecurity Certificate
 
+![](https://nirzak-streak-stats.vercel.app/?user=0xdeyan&theme=dark&hide_border=true)<br/>
+
 
 ## 📫 Let’s Connect
 
